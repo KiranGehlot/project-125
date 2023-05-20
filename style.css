@@ -1,0 +1,46 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey ;
+    font-weight: 900;
+    border-block: 5px dashed black;
+    background-color: #00cc99;
+
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+    font-weight: 800;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    background-color: darkgray;
+    font-weight: 600;
+
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    border-style: dotted;
+  border-color: coral;
+    
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: 30px;
+}
+
